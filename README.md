@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zakaria 👋</h1>
-<p align="center">Cloud & DevOps Engineer | Azure | Linux | Kubernetes | Terraform </p>
+<p align="center">Cloud & DevOps Engineer | Azure | AWS | Linux | Kubernetes | Terraform </p>
 
 ---
 
