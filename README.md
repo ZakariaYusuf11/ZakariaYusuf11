@@ -6,7 +6,7 @@
 ## 💻 About Me
 
 - 🎯 Currently working as a **Cloud & IT Support Analyst** at Queen Mary University
-- 🔧 Transitioning into DevOps with hands-on projects in **Azure, Terraform, Docker, and Kubernetes**
+- 🔧 Transitioning into DevOps with hands-on projects in **Azure, Terraform, AWS, Docker, and Kubernetes**
 - 🛠️ Experienced in **IT support, service desk operations**, and remote infrastructure troubleshooting
 - 💬 Comfortable with **Microsoft 365, Intune, Azure AD (Entra ID)**, VPNs, MFA, and ticketing via **ServiceNow**
 
